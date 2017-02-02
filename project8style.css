@@ -1,0 +1,52 @@
+
+h1 {
+			color: green;
+			text-align: center;
+}
+		
+.table {
+		
+			width: 650 px;
+			border-collapse: collapse;
+			margin: auto;
+			text-align: center;
+			font-size: 1.5 em;
+}
+	
+	
+.body {
+			font-family: Verdana;
+}
+	
+.th {
+			background-color: yellow;
+			border-style: solid;
+			border-width: 2px;
+			border-color: black;
+			width: 20%;
+			font-weight: bold;
+			padding: 5px;
+			text-align: center;
+}
+	 
+td {
+			border-width: 2px;
+			border-style: dotted;
+			border-color: blue;
+			padding: 5px;
+}
+		
+.red {
+			color: red;
+}
+		
+.blue {
+			color: blue;
+}
+	
+		
+		
+		
+	
+	
+		
